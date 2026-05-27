@@ -29,6 +29,7 @@ Sistema backend desenvolvido em Java para gerenciamento de provas, gabaritos e c
 
 # Estrutura do Projeto
 
+```
 src/main/java
 │
 ├── application
@@ -50,7 +51,7 @@ src/main/java
 │   └── console
 │
 └── Main.java
-
+```
 ---
 
 ### Domain
